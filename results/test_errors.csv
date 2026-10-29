@@ -1,0 +1,5 @@
+file,recording,window_idx,t_start_s,true,pred
+standing_standingfull_16.csv,standing_full,0,0.0,standing,walking
+standing_standingfull_16.csv,standing_full,1,0.5,standing,walking
+standing_standingfull_16.csv,standing_full,2,1.0,standing,walking
+standing_standingfull_16.csv,standing_full,3,1.5,standing,walking

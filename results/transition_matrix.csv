@@ -1,0 +1,5 @@
+,standing,walking,jumping,still
+standing,0.87,0.033,0.027,0.07
+walking,0.038,0.905,0.036,0.021
+jumping,0.029,0.034,0.901,0.036
+still,0.034,0.055,0.02,0.891

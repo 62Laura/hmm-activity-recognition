@@ -1,0 +1,1 @@
+{"states": ["standing", "walking", "jumping", "still"], "features": ["a_mean", "a_std", "a_range", "a_sma", "a_corr_xy", "a_corr_xz", "a_corr_yz", "g_mean", "g_std", "a_domfreq", "a_energy", "a_entropy", "g_domfreq", "g_energy"], "converged": true, "iterations": 6}

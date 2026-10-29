@@ -1,0 +1,5 @@
+recording,activity,member,acc_hz_original,gyro_hz_original,acc_unit_original,duration_s,pieces
+jumping,jumping,Laura Celine,99.7,99.7,"m/s2, gravity removed",88.9,17
+standing_full,standing,Laura Celine,99.7,99.7,"m/s2, gravity removed",89.8,17
+still,still,Laura Celine,99.7,99.7,"m/s2, gravity removed",91.7,18
+walking_full,walking,Laura Celine,99.7,99.7,"m/s2, gravity removed",94.7,18

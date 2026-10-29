@@ -1,0 +1,5 @@
+activity,files,seconds,train_files,test_files,has_90_s
+standing,17,89.9,12,5,False
+walking,18,94.7,13,5,True
+jumping,17,88.9,12,5,False
+still,18,91.7,13,5,True

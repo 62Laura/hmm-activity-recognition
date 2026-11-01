@@ -1,8 +1,7 @@
 # Human Activity Recognition with a Hidden Markov Model
 
-neutral line
 
-Author: Laura Celine. A Hidden Markov Model written from scratch with numpy recognises four activities (standing, walking, jumping, still) from smartphone accelerometer and gyroscope recordings.
+A Hidden Markov Model written from scratch with numpy recognises four activities (standing, walking, jumping, still) from smartphone accelerometer and gyroscope recordings.
 
 ## Submission links
 
@@ -10,7 +9,6 @@ Author: Laura Celine. A Hidden Markov Model written from scratch with numpy reco
 - Evidence video, walking: https://github.com/62laura/hmm-activity-recognition/blob/main/videos/evidence/walking.mp4
 - Evidence video, jumping: https://github.com/62laura/hmm-activity-recognition/blob/main/videos/evidence/jumping.mp4
 - Evidence video, still: https://github.com/62laura/hmm-activity-recognition/blob/main/videos/evidence/still.mp4
-- Report: see the `reports/` folder
 
 ## Data
 
@@ -61,7 +59,3 @@ Run the notebooks in `notebooks/` in order (1 to 4) in Google Colab. They ask fo
 
 - One participant and one phone, and a small amount of data per activity.
 - Training sessions for the transition matrix are built by chaining recordings of single activities, so the off-diagonal probabilities are a modelling choice and not natural behaviour.
-
-## Use of AI tools
-
-An AI assistant (Claude, by Anthropic) helped write and debug the notebooks and draft documents. I ran the notebooks on my own recordings and the results come from those runs. I am responsible for the contents.
